@@ -1,4 +1,3 @@
-package ArraysLevelTwo;
 
 import java.util.Arrays;
 
